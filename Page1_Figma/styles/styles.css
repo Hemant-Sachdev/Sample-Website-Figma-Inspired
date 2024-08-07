@@ -1,0 +1,225 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.text-secondary{
+    color : #BDBDBD;
+}
+
+.arrow-buttons{
+    width: 52.95px;
+    height: 53px;
+}
+/* Navbar starts*/
+.navbar-nav.mb-2.mb-lg-0{
+    margin-left: 22rem;
+}
+/* Navbar ends*/
+
+/* Section1 starts*/
+.col-4{
+    padding-top: 10rem;
+}
+
+.heading-2{
+    padding-top: 130px;
+}
+
+div .d-flex.gap-3{
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+
+h2{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.col-4.text-secondary{
+    padding-top: 13rem;
+    color: #BDBDBD;
+}
+
+.common-h2{
+    font-family: 'TT Hoves';
+    font-size: 64px;
+    font-weight: 300;
+    line-height: 64px;
+    margin-bottom: 0%;
+    padding-left: 70px;
+}
+
+.section1-image{
+    width: 863px;
+    height: 829px;
+}
+
+.pagination {
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+    color: #ccc;
+}
+
+.pagination span {
+    margin: 0 10px;
+}
+.pagination .separator {
+    display: inline-block;
+    width: 40px;
+    border-top: 1px solid #ccc;
+    transform: rotate(140deg);
+}
+
+.abs-button{
+    position: absolute;
+    top:895px;
+    width: 248px;
+}
+/* Section1 ends*/
+
+/* Section2 starts*/
+.section2{
+    margin-top: 120px;
+}
+
+.section2-button{
+    width: 247px;
+}
+
+.section2-text{
+    font-size: 64px;
+    font-weight: 300;
+    line-height: 64px;
+}
+/* Section2 ends*/
+
+/* Section 3 starts */
+.section3-common-text{
+    font-size: 64px;
+    font-weight: 300;
+    line-height: 64px;
+}
+
+.task {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    height: 100px;
+}
+
+.number {
+    line-height: 213px;
+    font-size: 162px;
+    font-weight: 900;
+    color: #dcdcdc;
+    transform: translateY(-50%);
+}
+
+.task p {
+    position: relative;
+    top: -75px;
+    left: 20px;
+    text-align: left;
+    font-size: 1.25rem;
+    color: #333;
+    width: 404px;
+    height: 144px;
+}
+/* Section3 ends*/
+
+/* Section4 starts*/
+.common-images-up{
+    width: 570px;
+    height: 255px;
+}
+/* Section 4 ends*/
+
+/* Section 5 starts*/
+form{
+    width: 391px;
+}
+
+.form-control.rounded-0.border.border-0{
+    background-color: #F3F3F3;
+    height : 46px ;
+}
+textarea{
+    background-color: #F3F3F3;
+}
+
+.form-image{
+    width: 749px;
+    height: 293px;
+}
+
+::placeholder{
+    content: '*';
+    color: red;
+}
+/* Section 5 ends*/
+
+/* Footer starts*/
+.copyright{
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.anchor{
+    text-decoration: none;
+}
+/* Footer ends*/
+
+/* Page 2 starts*/
+.fw-bolder.text-start{
+    font-family: 'TT Hoves';
+    font-size: 64px;
+    font-weight : 300px;
+    line-height: 64px;
+    text-align: left;
+}
+
+
+.common-img-page2{
+    width: 210px;
+    height: 260px;
+}
+
+.uncommon-img-page2{
+    width: 210px;
+    height: 130px;
+}
+
+.page2-hr{
+    width: 1266px;
+    margin-left: 11px;
+}
+/* Page 2 ends*/
+
+/* Page 3 starts*/
+.common-img-page3{
+    width: 725px;
+    height: 435px;
+}
+
+.common-card-text{
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 49.8px;
+}
+
+/* Page 3 ends*/
+
+/* Page 4 starts*/
+.common-img-page4{
+    width: 337px;
+    height: 450px;
+}
+/* Page 4 ends*/
+
+/* Page 5 starts*/
+.image-page5{
+    width: 880px;
+    height: 548px;
+}
+/* Page 5 ends */
